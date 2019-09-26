@@ -14,3 +14,4 @@ The original source comes from https://raw.githubusercontent.com/teddysun/shadow
 # TCPPortCheck.exe
 This tool is used for check whether your IP address is blocked or not by GFW. After checking, if you see "不通", then your server IP or port has been blocked and you should use a new IP or port.
 
+
