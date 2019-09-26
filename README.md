@@ -1,7 +1,7 @@
 # SS_tools
 Some backup scripts for building SS. I put here just in case the author delete his scripts and I won't be able to build SS quickly.
 
-**For the instructions about SS installation, please see Google cloud SS in my Evernote.**
+**For the instructions about SS installation, please see Google cloud SS in my Evernote or build SS.docx.**
 
 # bbr.sh
 The original source comes from https://github.com/teddysun/across/raw/master/bbr.sh. 
